@@ -15,7 +15,6 @@ public class PersonTest {
     }
 
     @Test
-    @Ignore
     public void shouldBeSuccess() {
         fail("Test to fail");
     }
